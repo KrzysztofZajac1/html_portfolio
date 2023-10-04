@@ -1,0 +1,165 @@
+
+
+
+body{
+    background-color: #222831;
+    color: #EEEEEE;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+.container-bar{
+    background-color: hwb(197 2% 69%);
+}
+
+
+.container-fluid{
+    background-color: rgba(var(--bs-dark-rgb),var(--bs-bg-opacity))!important;
+    color: #EEEEEE;
+
+}
+
+.dropdown-menu{
+    background-color: #393E46 ;
+    border: solid #EEEEEE;
+
+}
+
+.dropdown-item{
+    color: #EEEEEE;
+
+}
+
+.nav-link{
+    color: #EEEEEE;
+}
+
+.d-block{
+    height: 300px;
+    width: 500px;
+    border-radius: 50px;
+    border: solid #222831;
+}
+
+.display-5{
+    color: #B9B4C7;
+}
+
+.container{
+    background-color:#222831;
+}
+
+
+.featurette-heading{
+    color: #00ADB5;
+}
+
+#img:hover {
+    -webkit-transform: scale(1.3,1.3);
+}
+
+p{
+    color: #EEEEEE;
+}
+
+.text-body-secondary{
+    color: black;
+}
+
+h3{
+    display: flex;
+    justify-content: center;
+    color: #00ADB5;
+
+}
+
+.loi{
+    color: #EEEEEE;
+    text-decoration: underline #00ADB5;
+    
+}
+
+h1{
+    color: #00ADB5;
+}
+
+.display-5{
+    color: #00ADB5;
+}
+
+.text-body-emphasis{
+    color: #00ADB5;
+}
+
+.row-footer{
+    margin: 0;
+    text-align: center;
+    position: absolute;
+    overflow: visible;
+    left: 0;
+    right: 0;
+    height: 30px;
+}
+
+.container-end{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 35px;
+}
+
+.contact-message{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+}
+.contact-me{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Get{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.btn{
+    background-color: #00ADB5;
+    color: #222831;
+}
+
+.row{
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.img1{
+    border-radius: 50px;
+    padding: 0;
+    border: #00ADB5 solid;
+    max-width: 100px;
+    max-height: 100px;
+    min-width: 100px;
+    min-height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.skydive{
+    width: 100%;
+    
+}
+
